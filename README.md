@@ -1,1 +1,2 @@
 # Gene-Expression-Monitoring
+In this notebook we shall examine a small gene expression dataset, attempting to classify leukemia patients into one of two classes. This dataset was the focus of a [Kaggle Days meetup](https://www.meetup.com/Kaggle-Days-Meetup-London/events/258570474/) held in London on March 2019 and the original data can be found [here](https://www.kaggle.com/crawford/gene-expression).
